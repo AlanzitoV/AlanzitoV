@@ -1,21 +1,22 @@
-### Hola mi nombre es Alan Britez 👋
+### ¡Hola, mi nombre es Alan Britez! 👋
 
-Soy Data Scientist y editor de videos con experiencia en el ámbito audiovisual.
+Soy Data Scientist y editor de videos, con experiencia en el ámbito audiovisual.
 
-Actualmente me dedico a proyectos que me permiten progresar en mi formación como Data Scientist. Me apaciona encontrar informacion util a traves de el analisis de datos y la aplicacion de modelos.
+Actualmente, me dedico a proyectos que me permiten progresar en mi formación como Data Scientist. Me apasiona encontrar información útil a través del análisis de datos y la aplicación de modelos.
 
-### ¿Que tecnologias uso?
+### ¿Qué tecnologías uso?
 
 Las principales herramientas que manejo son:
 - Power BI
 - SQL
 - Python: numpy, pandas, scikit-learn, matplotlib, seaborn
 
-Tambien utilizo **Premiere Pro** y **after effects** para la edicion de videos.
+Actualmente, estoy aprendiendo los servicios que ofrece **Google Cloud**.
 
-### No dudes en contactarme!
+También utilizo **Premiere Pro** y **After Effects** para la edición de videos.
+
+### ¡No dudes en contactarme!
 
 [Linkedin](https://www.linkedin.com/in/alan-britez-982407221/ "Linkedin")
 
 Correo: alanbritez18@gmail.com
-  
