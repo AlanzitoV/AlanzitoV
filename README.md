@@ -9,6 +9,7 @@ Actualmente, me dedico a proyectos que me permiten progresar en mi formación co
 Las principales herramientas que manejo son:
 - Power BI
 - SQL
+- Looker Studio
 - Python: numpy, pandas, scikit-learn, matplotlib, seaborn
 
 Actualmente, estoy aprendiendo los servicios que ofrece **Google Cloud**.
